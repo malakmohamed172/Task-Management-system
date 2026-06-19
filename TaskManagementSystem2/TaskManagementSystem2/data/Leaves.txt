@@ -1,0 +1,2 @@
+rana,Sick,sickk,12/12/2024,14/12/2024,DISAPPROVED
+omar,Sick,have to go to hospital,2/12/2024,5/12/2024,APPROVED

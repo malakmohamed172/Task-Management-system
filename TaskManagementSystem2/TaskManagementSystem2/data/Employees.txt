@@ -1,0 +1,8 @@
+
+
+mahmoud,123,human resource
+mariam,123,tester
+hala,123,fullstack
+nagham,123,data analyst 
+omar,123,network engineer
+rana,123,data analyst

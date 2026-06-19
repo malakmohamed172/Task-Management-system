@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Mission.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/MissionManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/FileManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Admin.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Employee.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/EmployeeManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/taskmanagementsystem2/TaskManagementSystem2.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Leave.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Leader.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/TaskManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/LeaveManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Main.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Project.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/ProjectManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Task.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/TaskPhase.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/Timecard.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/TimecardManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/User.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/UserManager.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/gui/AdminDashboard.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/gui/EmployeeFrame.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/gui/LeaderDashboard.java</file>
+            <file>file:/C:/Users/MICROSOFT/Desktop/TaskManagementSystem2/TaskManagementSystem2/src/tms/gui/LoginFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
