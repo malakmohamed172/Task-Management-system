@@ -70,6 +70,7 @@ The employee workspace keeps daily work simple:
 TaskManagementSystem2/
 +-- TaskManagementSystem2/
     +-- data/                  # Text-file data storage
+    +-- lib/                   # Required Swing layout dependency
     +-- src/
     |   +-- taskmanagementsystem2/
     |   +-- tms/
@@ -90,7 +91,7 @@ From the nested project folder:
 git clone https://github.com/malakmohamed172/Task-Management-system.git
 cd .\Task-Management-system
 cd .\TaskManagementSystem2\TaskManagementSystem2
-java -cp .\build\classes tms.Main
+java -cp ".\build\classes;.\lib\AbsoluteLayout-RELEASE150.jar" tms.Main
 ```
 
 The project is a NetBeans Java project, so it can also be opened directly in NetBeans.
