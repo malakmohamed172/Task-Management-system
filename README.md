@@ -16,9 +16,29 @@
 
 ## Preview
 
-| Login | Admin Dashboard | Leader Dashboard | Employee Workspace |
-| --- | --- | --- | --- |
-| Secure role-based entry point | Manage users, employees, projects, and tasks | Track tasks, timecards, leaves, and missions | View tasks, update status, check in/out, and submit requests |
+### Login Page
+
+Secure role-based entry point for admins, leaders, and employees.
+
+![Login Page](assets/screenshots/login-page.png)
+
+### Admin Page
+
+Admin dashboard for managing users, employees, projects, and tasks.
+
+![Admin Page](assets/screenshots/admin-page.png)
+
+### Leader Page
+
+Leader dashboard for task management, request review, and timecard review.
+
+![Leader Page](assets/screenshots/leader-page.png)
+
+### Employee Page
+
+Employee workspace for assigned tasks, task status updates, and request submission.
+
+![Employee Page](assets/screenshots/employee-page.png)
 
 ---
 
